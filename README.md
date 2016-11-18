@@ -7,5 +7,7 @@ Manage your business from a distance
 
 ## Russia Patent 
 EasyWork24 - Business Management System
+
 patented by PJSC "Konstruktor Imperiy"
+
 Patent № 2014614749
