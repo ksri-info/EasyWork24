@@ -11,3 +11,5 @@ EasyWork24 - Business Management System
 patented by PJSC "Konstruktor Imperiy"
 
 Patent № 2014614749
+
+[PatentEasyWork24.pdf](https://github.com/ksri-info/EasyWork24/blob/master/PatentEasyWork24.pdf)
